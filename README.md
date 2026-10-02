@@ -1,3 +1,5 @@
+> **Archived — October 2, 2026.** This earlier project or experiment is no longer actively maintained. It is preserved for historical reference.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
